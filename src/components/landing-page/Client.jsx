@@ -15,7 +15,7 @@ import React from 'react';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
-import CustomButtons from './ui/Buttons';
+import CustomButtons from '../ui/Buttons';
 const Testimonials = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-white p-8">

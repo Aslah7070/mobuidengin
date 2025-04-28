@@ -1,14 +1,14 @@
 import React from 'react'
 import Navbar from './landing-page/Navbar'
-import Articles from './Articles'
+import Articles from './landing-page/Articles'
 import Flow from './landing-page/Flow'
 import About from './landing-page/About-us'
-import Testimonials from './Client'
-import Benifits from './Benifits'
+import Testimonials from './landing-page/Client'
+import Benifits from './landing-page/Benifits'
 import ServicePlan from './servicePlan'
 import Resumebuilding from './Resumebuilding'
-import ContactUs from './ContactUs'
-import Footer from './Footer'
+import ContactUs from './landing-page/ContactUs'
+import Footer from './landing-page/Footer'
 
 
 const Main = () => {

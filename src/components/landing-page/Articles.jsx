@@ -1,6 +1,6 @@
 import React from 'react'
-import articleImg from "../assets/articleIMG.svg"
-import CustomButtons from './ui/Buttons'
+import articleImg from "../../assets/articleIMG.svg"
+import CustomButtons from '../ui/Buttons'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import SouthWestIcon from '@mui/icons-material/SouthWest';
 const Articles = () => {
