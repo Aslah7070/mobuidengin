@@ -3,7 +3,7 @@
 
 import React from "react";
 import DoneIcon from '@mui/icons-material/Done';
-import CustomButtons from "./ui/Buttons";
+import CustomButtons from "../ui/Buttons";
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 const plans = [
     {
